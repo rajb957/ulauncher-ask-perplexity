@@ -1,0 +1,19 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Perplexity Search",
+  "description": "Search Perplexity directly from Ulauncher",
+  "developer_name": "Your Name",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "ask",
+      "type": "keyword",
+      "name": "Perplexity Search Keyword",
+      "description": "Keyword to trigger Perplexity search",
+      "default_value": "ask"
+    }
+  ]
+}
