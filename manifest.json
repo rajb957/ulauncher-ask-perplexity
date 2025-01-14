@@ -2,7 +2,7 @@
   "required_api_version": "^2.0.0",
   "name": "Perplexity Search",
   "description": "Search Perplexity directly from Ulauncher",
-  "developer_name": "Your Name",
+  "developer_name": "David Mereacre",
   "icon": "images/icon.png",
   "options": {
     "query_debounce": 0.1
